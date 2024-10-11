@@ -5,11 +5,11 @@ It's a useful tool for learning basic network scanning and socket programming.
 
 #Features
 - Scans port from spesific range.
-- Detects and displays open ports
-- Uses Python's socket library
+- Detects and displays open ports.
+- Uses Python's socket library.
 
 #Prerequisites
-- Any version of Python 3 must be installed
+- Any version of Python 3 must be installed.
 
 #How to run
 - python3 scanner.py <target_ip>
@@ -18,9 +18,9 @@ It's a useful tool for learning basic network scanning and socket programming.
 - python3 scanner.py 192.168.1.1
 
 #Testing the scanner
-- To test that program netcat should be installed
-- Open a port
-- Run the program
+- To test that program netcat should be installed.
+- Open a port using netcat.
+- Run the program against local host.
 
 #How to install netcat
 - sudo apt-get install netcat
